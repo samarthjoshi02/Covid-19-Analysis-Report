@@ -34,4 +34,4 @@ Matplotlib/Plotly (Visualization libraries)
 - The notebook interface allows exploratory data queries, letting users focus on any country of interest.
 
 # License
-Open source, released under the MIT License.
+Open source, released under the Mozilla Public License 2.0
